@@ -14,3 +14,4 @@ Do not clone `renaissance`, just view it in the browser and follow the instructi
 ## Exercises
 
 * exercises_1 - open up the markdown file on github, start exercises in one file named `exercises_1.rb`.
+* exercises_2 - open up the markdown file on github, start exercises in one file named `exercises_2.rb`.
