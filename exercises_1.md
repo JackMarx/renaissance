@@ -12,4 +12,4 @@
 7. Write a `times` loop and print each of the elements one at a time from the array.
 8. Write a new loop that only prints the elements at odd indices.
 9. Make a `sum` variable. Using a times loop, add each number from the array together then print the sum of the numbers in the array.
-10. Make a new variable containing a string with at least 7 letters called `original_word`. Make another variable containing an empty string called `weird_word`. Use a times loop to collect the even indexed letters from the original word and add them to the weird word variable. Print the weird word when you are donw.
+10. Make a new variable containing a string with at least 7 letters called `original_word`. Make another variable containing an empty string called `weird_word`. Use a times loop to collect the even indexed letters from the original word and add them to the weird word variable. Print the weird word when you are done.
